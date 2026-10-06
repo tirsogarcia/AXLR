@@ -1,0 +1,66 @@
+README.md
+  h_75fc85282124f5 7,37,65
+api/proto/underpass/axlr/v1/axlr.proto
+  h_75fc85282124f5 1-29
+charts/axlr/templates/configmap.yaml
+  h_75fc85282124f5 9-13
+charts/axlr/templates/deployment.yaml
+  h_75fc85282124f5 36-39
+charts/axlr/templates/networkpolicy.yaml
+  h_75fc85282124f5 19-21
+charts/axlr/templates/service.yaml
+  h_75fc85282124f5 16-20
+charts/axlr/values.schema.json
+  h_75fc85282124f5 11
+charts/axlr/values.yaml
+  h_75fc85282124f5 14-16
+docs/api.md
+  h_75fc85282124f5 3-5
+docs/helm.md
+  h_75fc85282124f5 3-4
+docs/index.md
+  h_75fc85282124f5 29-30
+docs/product.md
+  h_75fc85282124f5 32,38-39
+docs/transport-parity.md
+  h_75fc85282124f5 1-145
+mcpclient/README.md
+  h_75fc85282124f5 3-5
+tui/go.mod
+  h_75fc85282124f5 10,14,16-19,39-40,42
+tui/go.sum
+  h_75fc85282124f5 13-14,33-36,39-40,45-46,71-82,85-88,93-94,97-106
+tui/service/config.go
+  h_75fc85282124f5 24,71-78
+tui/service/config_test.go
+  h_75fc85282124f5 100-115
+tui/service/grpc_server.go
+  h_75fc85282124f5 1-107
+tui/service/http_tools.go
+  h_75fc85282124f5 14-16
+tui/service/mcp_server.go
+  h_75fc85282124f5 1-33
+tui/service/operation_dispatch.go
+  h_75fc85282124f5 1-187
+tui/service/operation_events.go
+  h_75fc85282124f5 1-85
+tui/service/operations.go
+  h_75fc85282124f5 1-110
+tui/service/persistence.go
+  h_75fc85282124f5 241-260
+tui/service/server.go
+  h_75fc85282124f5 8,188,200-210,224,268-282,299
+tui/service/transport_parity_test.go
+  h_75fc85282124f5 1-579
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6312151f28f234da615ba0cbeed147ca6cf9564e",
+  "prompts": {},
+  "humans": {
+    "h_75fc85282124f5": {
+      "author": "Tirso Garcia <tirsogi@ext.inditex.com>"
+    }
+  }
+}
